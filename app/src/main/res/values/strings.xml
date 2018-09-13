@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Sigur Mobile</string>
+    <string name="Button_accept">Разрешить</string>
+    <string name="Reject">Запретить</string>
+    <string name="MenuDrawerSettings">Параметры</string>
+    <string name="MenuDrawerHeader">Меню</string>
+    <string name="textView_log">Состояние подключения</string>
+    <string name="textView_person">ФИО</string>
+    <string name="textView_position">Должность</string>
+</resources>
